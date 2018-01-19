@@ -10,7 +10,8 @@ Report any issues to https://github.com/protobi/js-xlsx/issues.
 
 For those contributing to this fork:
 * `master` is the main branch, which follows the original repo to enable a future pull request.
-* `beta` branch is published to npm and bower to make this fork available for use.
+* `beta` is the main beta branch, which follows the original repo to enable a future pull request.
+* `bheda91 ` branch is published to npm and to make this fork available for use.
 
 # Supported formats
 
